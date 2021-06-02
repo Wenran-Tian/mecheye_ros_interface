@@ -24,7 +24,7 @@ Official ROS interface for Mech-Eye cameras. If the MechEye camera version is be
 - Build with `catkin build`.
 - Run with one Mech-Eye camera.
 
-## Instruction for ubuntu 16.04:
+## Instruction for ubuntu 16.04 (Not recommand! Version is too old):
 - Set up mecheye ros interface path:
 ```bash
 cd YOUR_PACKAGE_FOLDER
